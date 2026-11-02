@@ -61,5 +61,5 @@ For the client configuration, run the same command inside the `for_client` folde
 
 ## Developer
 
-Leeh Vann Joshua M. Lomocso
+Leeh Vann Joshua M. Lomocso  
 Ramaidha Digermo
